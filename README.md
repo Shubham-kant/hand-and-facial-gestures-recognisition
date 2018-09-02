@@ -7,5 +7,5 @@ your 2 fingers it will perform the functionality of left click . Basically you h
 (for example 2 green small papers cut in the shape of small squares) and if you  join them (pinch it ) it will perform the funcionality 
 of left  click.
 
-And also  by winking your left and right eye the cursor will perform functionality of left click and right click respectively.
+And also  by winking your left or right eye the cursor will perform functionality of left click or right click respectively.
 please use jupyter notebook to run this program for better performance. 
